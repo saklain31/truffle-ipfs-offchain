@@ -1,0 +1,2 @@
+file_name,initial_file_upload(sec.),avg_block_update_time(sec.),avg_challenge_server_time(sec.),avg_file_retrival(sec.),Total Memory(MB),avg. update memory (MB),initial memory (MB)
+5mb.txt,2.400616793000154,1.55247632472001,0.0001221184000314679,1.039704927840039,455.9784507751465,8.940753936767578,8.940753936767578

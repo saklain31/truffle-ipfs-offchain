@@ -1,0 +1,4 @@
+truffle exec 'js-command-files/init_user.js'
+truffle exec 'js-command-files/check_user_exists.js'
+truffle exec 'js-command-files/store_init_file.js'
+truffle exec 'js-command-files/get_file_by_version.js'
